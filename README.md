@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=Fantastony)
+
+GET https://public-api.tracker.gg/apex/v1/standard/profile/5/Fantastony
