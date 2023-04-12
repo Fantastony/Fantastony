@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=Fantastony)
 
-![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+<a href="https://www.exophase.com/user/fantastony/"><img src="https://card.exophase.com/2/0/201641.png?1681278381"></a>
