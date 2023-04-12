@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=Fantastony)
-
-<a href="https://www.exophase.com/user/fantastony/"><img src="https://card.exophase.com/2/0/201641.png?1681278381"></a>
+be under construction...
